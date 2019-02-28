@@ -1,2 +1,2 @@
 # testreviewboard
-test for creview board connection
+test for review board connection
